@@ -1,0 +1,74 @@
+
+
+Existing project in the research pipeline and then there
+was also something else that Amina was interested in. 
+
+Analytic workflow in a jupyter notebook. 
+
+Mainly interested in the NERT project (India group interested in TB)
+
+Our thinking was they have their study data. It needs to be integrated into
+a common data model and a data mart. Idea was that they wanted to figure out
+how to work with it. 
+
+1. Replicate the findinigs from a publication (Visualize the data in an interactive 
+way and make it open for the public)
+
+2. Jupyter notebook. Have a way for researchers to share or collaborate
+on analyses that they're running. Researchers are taking what they need 
+independently and they aren't sharing code. They know depending on the 
+maturity of the researcher and their ability 
+
+An interface that they can use to explore their data that they can use
+in a jupyter notebook and 
+
+2 objectives:
+
+1) We don't know what they typically use to analyze their data.
+2) They typically use software tools like prism
+
+Finding ways to make it interactive to change things in the code
+
+For now we just want to put the concept of analyzing your data 
+and some standard workflows that you can build and analyze in a common
+space. No reproducability issues. A common understanding of the data and 
+validity and reproducability of those  analyses. 
+
+"Never worked with them so not sure about their maturity in terms of analytics"
+
+Not sure how forward thinking they are with this. "Hey this is what you can do"
+
+FOR NOW --> Just something to demo for them;
+
+Project plan and can integrate the data. If we can do some of that thinking and design and
+ideation. What Grace was thinking. She doesn't have a data set in mind. 
+
+Kaggle --> Clinical Trial Studies --> Next Flow or something
+
+They could do a lot of different states. 
+
+It would be kind of one of the ways 
+
+---------------------------------------
+Analysis workflow for clinical trials 
+---------------------------------------
+
+Can we find that out and see what some of the data that they work with. They 
+can share the publications. 
+
+A simple workflow where they:
+
+0. Preprocessing
+1. See the data of interest
+2. Summary of their measures of interst
+3. Select from a number of statistical tests and see the output. 
+4. Visualizations in the workbook
+
+What types of statistical tests they try to use. 
+
+Simiple dataset and look for the pitfalls.
+
+--------------------------------------------
+Statistical Publications
+--------------------------------------------
+
