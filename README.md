@@ -11,8 +11,8 @@
 	- SF-36 Data Questionnaire where 
 - Images: Images populating the Jupyter Notebook
 - Data: 
-	-13063_2006_152_MOESM1_ESM.xls Clinical Trials input data
-	-acupuncture_analysis_input Output from script 1, which will be the input for Script 2, the analysis file.
+	- 13063_2006_152_MOESM1_ESM.xls Clinical Trials input data
+	- acupuncture_analysis_input Output from script 1, which will be the input for Script 2, the analysis file.
 - Notebook Scripts
 
 	- Script 1: Data Inspection and Cleaning 
